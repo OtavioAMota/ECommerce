@@ -1,0 +1,2 @@
+# testes:
+    docker-compose exec web pytest --cov --cov-report=html
